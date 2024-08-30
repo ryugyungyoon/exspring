@@ -1,5 +1,6 @@
 package com.rc.exspring;
 
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -9,5 +10,4 @@ class ExspringApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
